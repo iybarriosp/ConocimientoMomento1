@@ -1,0 +1,7 @@
+ejercicios.txt
+En tu repositorio Git, que debe estar personalizado, con tu información básica, debes subir los archivos de los siguientes ejercicios: 
+Elabore un programa para la Universidad de Florida que calcule los primeros 100 números de la siguiente serie 5, 8, 13, 21, ... sin mostrar el 13, y muestre la lista del resultado de los números.
+Elabore un programa para el Éxito que determine el salario de los 1897 empleados de su compañía, teniendo en cuenta las comisiones y la seguridad social que debe pagar, e imprima el listado de la información. 
+Elabore un programa para la facultad de Ingeniería que pida 400 números e indique si ese número es par o impar; me muestre un listado y me indique cuantos son pares y cuantos son impares.
+Elabore un programa para un Hospital que determine, y muestre el nivel de Leucemia de 803 pacientes clasificando su puntaje si esta inferior a 10 no tiene Leucemia; si esta entre 11 y 40, nivel bajo de Leucemia; si esta entre 40 y 69, nivel moderado de Leucemia, si esta entre 70 y 100, nivel grave de Leucemia.
+Elabore un programa para determinar el funcionamiento optimo de las 407 cabinas de metro cable, registrando un puntaje que se clasifica de la siguiente forma si tiene 2 puntos está con un funcionamiento defectuoso, si tiene 3 puntos el funcionamiento es moderado y si tiene 4 puntos el funcionamiento es óptimo.
